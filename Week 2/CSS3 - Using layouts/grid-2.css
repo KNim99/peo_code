@@ -1,40 +1,16 @@
 body{
    margin: 0;
-    
 }
-/* .grid-a{
-display: grid;
-grid-gap: 50px;
-grid-template-columns: 300px 250px 300px;
-background-color: transparent;
-padding: 20px 20px 80px;
-
-/* grid-row: 50px; 
-}
-
-.grid-b{
-gap: 10px;
-border: 1px solid rgba(0, 0, 0, 0.8);
-display: flex;
-align-items: center;
-/* text-align: center; 
-justify-content: center;
-
-} */
 
 .p2{
     font-size:small;
 }
 
-/* .p3{
-    text-align: center;
-} */
 .a{
     display: flex;
     background-color: dodgerblue ;
     align-items: center;
     padding: 2% 25% 25%;
-    /* background:transparent; */
     text-align: center;
 }
 
@@ -43,25 +19,18 @@ justify-content: center;
     padding: 35px;
     margin:10px;
     border-radius: px;
-    /* background:linear-gradient(transparent); */
     background-color: rgb(217, 217, 236);
-    /* font-size: 30px; */
   }
 
 .a2{
     padding-top: 15px;
     padding-bottom: 15px;
     height: 250px;
-    /* width: 250px; */
 }
 
 h4{
     margin: 4;
 }
-
-/* h5{
-    text-align: center;
-} */
 
 div{
     align-content: center;

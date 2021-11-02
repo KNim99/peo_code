@@ -6,11 +6,11 @@ img{
     height: 300px;
     width: 300px;
     position: relative;
-    /* left: 900px; */
     right: 100px;
     bottom: 140px;  
     float: right;
 }
+
 .top-part{
 background-color:  rgb(202, 0, 0);
 margin-left: 0;
@@ -57,9 +57,3 @@ pre{
     font-family: 'Roboto Condensed', sans-serif;
     margin-top: 60px;
 }
-
-
-/* font-family: 'Architects Daughter', cursive;
-font-family: 'Roboto', sans-serif;
-font-family: 'Roboto Condensed', sans-serif;
-font-family: 'Zen Kurenaido', sans-serif; */
